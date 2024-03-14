@@ -4,6 +4,6 @@
 
 class Square:
     """Represent a square."""
-    def __init__(self,size):
+    def __init__(self, size):
         """constructor for class properties"""
         self.__size = size
