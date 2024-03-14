@@ -1,3 +1,5 @@
 #!/usr/bin/python3
 """square module document"""
-class Square :
+class Square:
+    """ square object"""
+    pass
