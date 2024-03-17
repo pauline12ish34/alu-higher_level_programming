@@ -24,4 +24,3 @@ class Rectangle(BaseGeometry):
         '''Return info about the Rectangle instance
         '''
         return f"[Rectangle] {self.__width}/{self.__height}"
-
