@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Documented fetching url and headers"""
+"""Documented"""
 import urllib.request
 
 url = 'https://intranet.hbtn.io/status'
